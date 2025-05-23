@@ -39,7 +39,7 @@ Cada archivo `.pbix` representa un análisis independiente, aplicando técnicas 
 |--------|-------------|
 | `DIEGO GARCIA - LAB 18 PUNTO 1.pbix` | Desarrollo del punto 1 del laboratorio de la sesión 18. |
 | `SESION 18 MAPAS.pbix` | Visualizaciones con mapas geográficos en Power BI. |
-| `Lab-16 - - DIEGO GARCIA BARRIOS.pbix` | Análisis de barrios o zonas, posiblemente datos territoriales o demográficos. |
+| `Lab-16 - - DIEGO GARCIA BARRIOS.pbix` | Análisis de barrios y localidades de Bogotá, datos territoriales o demográficos. |
 | `Lab-16 - Ejercicio 1.pbix` | Ejercicio práctico 1 de la sesión 16. |
 | `Lab-16 - Ejercicio 2.pbix` | Ejercicio práctico 2 de la sesión 16. |
 | `Lab-16 - Ejercicio 3.pbix` | Ejercicio práctico 3 de la sesión 16. |
